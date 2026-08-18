@@ -61,6 +61,22 @@
 * Task 1: Automate CSR with Bash
 * Task 2: GitHub Actions TLS Workflow
 * Task 3: Jenkins Certificate Job
+* Task 4: Ansible Cert Deployment
+* Task 5: Python Expiry Monitor Script
+
+## LAB 9 — CLM Platforms – Venafi & AppViewX
+* Task 1: Venafi Overview & Dashboard
+*  Task 2: Policy & Certificate Request
+*  Task 3: Venafi API Basics
+*  Task 4: AppViewX Workflow Setup
+*  Task 5: Certificate Discovery Scan
+
+## LAB 10 — Documentation, SOPs & Knowledge Base
+*  Task 1: Write a Certificate SOP
+*  Task 2: Incident RCA Template
+*  Task 3: Customer Onboarding Checklist
+*  Task 4: Production Rollout Runbook
+*  Task 5: Knowledge Base Article
 
 ---
  
